@@ -237,16 +237,16 @@ http://tv-cdn.ihub.live:8080/j-NetGeoPpl/tracks-v1a1/mono.m3u8
 
 
 #EXTINF:-1 tvg-logo="http://ihub.live/uploads/tv_image/sm/sky-sports-cricket.jpg" group-title="Sports",Sky Sports Cricket
-http://tv-cdn.ihub.live:8080/j-StarSportsCricket/tracks-v1a1/mono.m3u8
+http://tv-cdn.ihub.live:8080/StarSportsCricket/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="http://ihub.live/uploads/tv_image/sm/ptv-sports.jpg" group-title="Sports",PTV Sports
-http://tv-cdn.ihub.live:8080/j-PTVSports/tracks-v1a1/mono.m3u8
+http://tv-cdn.ihub.live:8080/PTVSports/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="http://ihub.live/uploads/tv_image/sm/sony-ten-1.jpg" group-title="Sports",Sony TEN 1
-http://tv-cdn.ihub.live:8080/j-SonyTen1/tracks-v1a1/mono.m3u8
+http://tv-cdn.ihub.live:8080/SonyTen1/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="http://ihub.live/uploads/tv_image/sm/sony-ten-2.jpg" group-title="Sports",Sony TEN 2
-http://tv-cdn.ihub.live:8080/j-SonyTen2/tracks-v1a1/mono.m3u8
+http://tv-cdn.ihub.live:8080/SonyTen2/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="http://ihub.live/uploads/tv_image/sm/redbulltvhd.jpg" group-title="Sports",RED BULL TV
 http://tv-cdn.ihub.live:8080/RedBullTVHD/tracks-v1a1/mono.m3u8
